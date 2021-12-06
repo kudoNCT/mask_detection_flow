@@ -1,0 +1,4 @@
+venv/*
+models/face_detect_dsfd/weights/*
+models/mask_classify_vinai/weights/*
+.idea/*
